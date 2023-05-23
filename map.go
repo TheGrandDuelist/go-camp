@@ -6,7 +6,7 @@ import (
 	"sort"
 )
 
-func main() {
+func entry_13() {
 	scoreMap := make(map[string]int, 2)
 	scoreMap["a"] = 10
 	scoreMap["c"] = 30

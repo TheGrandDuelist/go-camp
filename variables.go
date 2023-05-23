@@ -7,7 +7,7 @@ import (
 
 const s string = "constant"
 
-func main() {
+func entry_22() {
 	var a = "initial"
 	fmt.Println(a)
 

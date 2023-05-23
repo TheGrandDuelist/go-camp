@@ -18,7 +18,7 @@ const (
 	d
 )
 
-func main() {
+func entry_4() {
 	c := [5]int{2: 100, 4: 200}
 	fmt.Println(c)
 	d := [...]struct {
